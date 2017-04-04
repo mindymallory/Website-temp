@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Software"
+title = "Projects"
 subtitle = ""
 widget = "projects"
 
@@ -26,8 +26,8 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Joint Modelling"
-  tag = ".joint-modelling"
+  name = "Books"
+  tag = ".books"
 
 [[filter]]
   name = "R"

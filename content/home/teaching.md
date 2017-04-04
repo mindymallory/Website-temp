@@ -14,16 +14,11 @@ weight = 60
 
 +++
 
-I am a teaching instructor for the following courses:
+**Microeconmic Analysis (ACE 500)**: This is standard first-year master's theory class. It has a heavy emphasis on core neoclassical economic theory, with some modern extensions.
 
-- FLHR627: Introduction to Longitudinal Data Analysis (April 2017) [[data available here](https://github.com/graemeleehickey/FLHR627)]
-- [SAM 2017](https://www.liverpool.ac.uk/translational-medicine/research/sam-conference/) Conference Workshop on Joint Modelling using R
+**Commodity Price Analysis (ACE 427)**: Students learn what drives prices in commodity markets. First we cover fundamental supply and demand characteristics of key commodity markets like corn, soybeans, and wheat, livestock and energy. Considerable time is spent introducing the student to important sources of information (from the United States Department of Agriculture, e.g.) that are critical to market participants.
 
-I have previously been a tutor for the following course:
+Web-Based Textbook
+Price Analysis: A Fundamental Approach to the Study of Commodity Prices
 
-- Statistics (for Veterinary Science undergraduates)
-- Introductory Statistics to Scientists (for faculty staff and students)
-- Spatial and Temporal Statistical Modelling for Population Health Sciences (short course)
-- Statistics I (for Mathematics undergraduates)
-- Statistics II computer laboratory classes (for Mathematics undergraduates)
-- Integration and Probability I (for Mathematics undergraduates)
+**Commodity Futures Markets (ACE 428)**: Students gain a working knowledge of commodity futures and options markets. We cover the markets’ role as an economic allocation mechanism, describe intuitively and analytically the relationship between a commodity’s cash, forward, and futures prices, price option contracts according to some popular models, and implement a risk management strategy that includes hedging on a commodity futures exchange.

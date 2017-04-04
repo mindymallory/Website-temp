@@ -7,24 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Mindy L. Mallory</copyright>
-    <lastBuildDate>Fri, 17 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>joineR: Joint Modelling of Repeated Measurements and Time-to-Event Data</title>
-      <link>/project/joineR/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Demonstrating Leverage in Options Markets</title>
+      <link>/project/shiny-options/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/joineR/</guid>
+      <guid>/project/shiny-options/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>joineRML: Joint Modelling of Multivariate Longitudinal Data and Time-to-Event Outcomes</title>
-      <link>/project/joineRML/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Price Analysis: A Fundamental Approach to the Study of Commodity Prices</title>
+      <link>/project/price-analysis/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/joineRML/</guid>
+      <guid>/project/price-analysis/</guid>
       <description></description>
     </item>
     
