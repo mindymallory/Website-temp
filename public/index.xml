@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mindy L. Mallory on Mindy L. Mallory</title>
+    <link>/index.xml</link>
+    <description>Recent content in Mindy L. Mallory on Mindy L. Mallory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Mindy L. Mallory</copyright>
+    <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>joineR: Joint Modelling of Repeated Measurements and Time-to-Event Data</title>
+      <link>/project/joineR/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/joineR/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>joineRML: Joint Modelling of Multivariate Longitudinal Data and Time-to-Event Outcomes</title>
+      <link>/project/joineRML/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/joineRML/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimated reductions in cardiovascular and gastric cancer disease burden through salt policies: an IMPACT NCD microsimulation study</title>
+      <link>/publication/2017-impact-salt/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-impact-salt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National registry data and record linkage to inform postmarket surveillance of prosthetic aortic valve models over 15 years</title>
+      <link>/publication/2017-avr-models/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-avr-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Components of the Bid-ask Spread: Evidence from the Corn Futures Market</title>
+      <link>/talk/msu2016/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/msu2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling of time-to-event and multivariate longitudinal outcomes: recent developments and issues</title>
+      <link>/publication/2016-mvjm-review/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-mvjm-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of statistical updating methods for clinical prediction models</title>
+      <link>/publication/2016-cpm-update/</link>
+      <pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-cpm-update/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
