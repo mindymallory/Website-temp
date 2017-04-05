@@ -1,5 +1,5 @@
 +++
-date = "2016-09-9T00:00:00"
+date = "2016-09-09T00:00:00"
 title = "Seven Mintutes About Me"
 abstract = ""
 abstract_short = ""
@@ -12,7 +12,7 @@ math = true
 
 url_pdf = ""
 url_slides = ""
-url_video = "mindymallory.github.io/static/aboutme-7min/7-minutes.html"
+url_video = "mindymallory.github.io/aboutme-7min/7-minutes.html"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
