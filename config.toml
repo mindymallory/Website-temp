@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-70608433-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -201,9 +201,14 @@ defaultContentLanguageInSubdir = false
   weight = 6
   
 [[menu.main]]
-  name = "CV"
+  name = "CV-HTML"
   url = "http://mindymallory.github.io/CV/"
   weight = 7  
+  
+[[menu.main]]
+  name = "CV-PDF"
+  url = "http://mindymallory.github.io/pdfs/CV-Mallory.pdf"
+  weight = 8  
 
 # Taxonomies.
 [taxonomies]
