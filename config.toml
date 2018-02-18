@@ -200,10 +200,10 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 6
   
-[[menu.main]]
-  name = "CV-HTML"
-  url = "http://mindymallory.github.io/CV/"
-  weight = 7  
+#[[menu.main]]
+#  name = "CV-HTML"
+#  url = "http://mindymallory.github.io/CV/"
+#  weight = 7  
   
 [[menu.main]]
   name = "CV-PDF"
