@@ -40,6 +40,6 @@ weight = 1
 +++
 
 # Biography
-Mindy L. Mallory is an associate professor in the Department of Agricultural and Consumer Economics at the University of Illinois. 
+Mindy L. Mallory is an Associate Professor and Clearing Corporation Chair in Food and Agricultural Marketing in the Department of Agricultural Economics at Purdue University. 
 
 Dr. Mallory's research focuses on commodity markets and marketing issues, especially related to commodity futures and options markets. Topics of special interest include forecasting, liquidity costs, and price discovery. Additionally, NSF-funded research examines how portfolio theory from finance can be applied to help conservation groups make informed resource allocation decisions in the face of climate change. 

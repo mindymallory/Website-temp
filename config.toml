@@ -1,6 +1,6 @@
 baseurl = "mindymallory.github.io"
 title = "Mindy L. Mallory"
-copyright = "&copy; 2017 Mindy L. Mallory"
+copyright = "&copy; 2019 Mindy L. Mallory"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,14 +20,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Mindy L. Mallory"
-  role = "Associate Professor, Agricultural and Consumer Economics"
-  organization = "University of Illinois"
-  organization_url = "http://illinois.edu/"
+  role = "Associate Professor, Agricultural Economics"
+  organization = "Purdue University"
+  organization_url = "http://purdue.edu/"
   avatar = "mallory-headshot.jpg"
   email = "mallorym@illinois.edu"
-  address = "319 Mumford Hall, 1301 W Gregory Dr., Urbana, IL 61801"
+  address = "Krannert 639, 403 W. State Street,  West Lafayette IN 47907"
   office_hours = "Email for appointment"
-  phone = "217-333-6547"
+  phone = ""
   skype =  ""
   telegram = ""
 
@@ -125,12 +125,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:mallorym@illinois.edu"
+    link = "mailto:mlmallor@purdue.edu"
 
   [[params.social]]
     icon = "university"
     icon_pack = "fa"
-    link = "http://ace.illinois.edu/directory/mallorym"
+    link = "https://ag.purdue.edu/agecon/Pages/Profile.aspx?strAlias=mlmallor"
     
   [[params.social]]
     icon = "twitter"
