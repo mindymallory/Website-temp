@@ -1,45 +1,14 @@
 +++
-# About/Biography widget.
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
 
-date = "2017-02-16T00:00:00"
-draft = false
+title = "Biography"
 
-widget = "about"
-
-# Order that this section will appear in.
-weight = 1
-
-# List your academic interests.
-[interests]
-  interests = [
-    "Commodity Markets",
-    "Price Analysis",
-    "Risk Analysis",
-    "Application of Portfolio Theory to Conservation",
-    "Applied Time-Series Econometrics",
-    "R software"
-
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Economics"
-  institution = "Iowa State University"
-  year = 2009
-
-[[education.courses]]
-  course = "Master in Mathematics"
-  institution = "Emporia State University"
-  year = 2005
-  
-[[education.courses]]
-  course = "Bachelor of Science in Education, Mathematics"
-  institution = "Emporia State University"
-  year = 2003
- 
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 +++
-
-# Biography
-Mindy L. Mallory is an Associate Professor and Clearing Corporation Chair in Food and Agricultural Marketing in the Department of Agricultural Economics at Purdue University. 
-
-Dr. Mallory's research focuses on commodity markets and marketing issues, especially related to commodity futures and options markets. Topics of special interest include forecasting, liquidity costs, and price discovery. Additionally, NSF-funded research examines how portfolio theory from finance can be applied to help conservation groups make informed resource allocation decisions in the face of climate change. 
