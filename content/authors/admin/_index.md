@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mindy Mallory
+name: Mindy L. Mallory
 
 # Username (this should match the folder name)
 authors:
@@ -45,6 +45,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: fa-graduation-cap
+  icon_pack: fas
+  link: https://sp2013.ag.itap.purdue.edu/agecon/Pages/Profile.aspx?strAlias=mlmallor&intDirDeptID=4
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mlmallor@purdue.edu'  # For a direct email link, use "mailto:test@example.org".
@@ -62,6 +65,7 @@ social:
 # - icon: CV
  #  icon_pack: ai
   # link: files/cv.pdf 
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
